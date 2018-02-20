@@ -7,6 +7,7 @@
 echo 'Hello world from Cloud9!';
 echo 'This is the first change';
 echo 'This is the second change';
+echo 'Another change'
 
 ?>
 </body>
